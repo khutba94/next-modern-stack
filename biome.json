@@ -6,7 +6,8 @@
       "!!.cursor",
       "!!**/.next",
       "!!**/node_modules",
-      "!!apps/web/public"
+      "!!**/apps/web/public",
+      "!!**/apps/api/dist"
     ]
   },
   "linter": {
